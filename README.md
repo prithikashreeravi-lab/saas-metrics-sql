@@ -123,6 +123,12 @@ SELECT * FROM v_repo_health WHERE star_growth_30d < 0 ORDER BY star_growth_30d;
 
 ---
 
+
+## 🙋‍♀️ Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/prithikashree/)
+
+
 ## 📄 License
 
 MIT — free to use, adapt, and share.
