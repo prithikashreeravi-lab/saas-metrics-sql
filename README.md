@@ -35,6 +35,11 @@ github_biz_analytics/
 
 ---
 
+## 📊 Live Dashboard
+👉 [View the live dashboard](https://prithikashreeravi-lab.github.io/saas-metrics-sql/dashboard.html)
+
+---
+
 ## 🚀 Quick Start
 
 ### 1. Prerequisites
